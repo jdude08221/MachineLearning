@@ -1,0 +1,1 @@
+Run linear_regression.py to view graph. Adjusting lr changes the learning rate.
